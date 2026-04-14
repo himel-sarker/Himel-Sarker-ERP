@@ -1,105 +1,147 @@
-**Himel Sarker**  
-Software Engineer | .NET Developer | ERP Systems  
-📍 Dhaka, Bangladesh  
+<!-- HEADER / HERO -->
+<p align="center">
+  <img src="https://shashwatco.com/wp-content/themes/shashwat/assets/img/shashwatProcess.gif" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Himel Sarker</h1>
+<h3 align="center">Software Engineer | .NET Developer | ERP Systems</h3>
+
+<p align="center">
+  📍 Dhaka, Bangladesh <br/>
+  Building scalable ERP systems & solving real-world business problems
+</p>
 
 ---
 
-## 👋 About Me
-Hi, I’m **Himel Sarker**, a passionate **Software Engineer** currently pursuing an **M.Sc. in Engineering in ICT** at Bangladesh University of Professionals (BUP).
-
-I am working as a **Software Engineer at Databiz Software Ltd (Mirpur, Dhaka)**, where I contribute to real-world ERP systems by solving complex problems, debugging production issues, and building scalable solutions.
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himel-sarker&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🚀 Project Overview: ERP System
+# 👋 About Me
 
-I am actively developing a **full-stack ERP (Enterprise Resource Planning) system** designed to streamline business operations across multiple domains.
+Hi, I’m **Himel Sarker**, a passionate **Software Engineer** currently pursuing an  
+**M.Sc. in Engineering in ICT** at *Bangladesh University of Professionals (BUP)*.
 
-### 🎯 Key Objectives
-- Centralized business management  
-- Scalable and maintainable architecture  
-- Real-time data processing and reporting  
-- Performance-optimized backend services  
+💼 I work as a **Software Engineer at Databiz Software Ltd (Mirpur, Dhaka)**  
+where I build and maintain **enterprise ERP systems**, focusing on:
+
+- Debugging production-level issues  
+- Designing scalable backend logic  
+- Optimizing database performance  
+- Implementing real-world business workflows  
+
+---
+
+# 🚀 ERP System (Flagship Project)
+
+A **full-stack Enterprise Resource Planning (ERP) system** designed to manage and optimize business operations efficiently.
+
+## 🎯 Objectives
+
+- Centralized business operations  
+- Scalable architecture  
+- Real-time data insights  
+- High-performance backend  
 
 ---
 
 ## 🧩 Core Modules
-- 🛒 Sales Management  
-- 📦 Purchase & Inventory  
-- 👤 Buyer & Supplier Management  
-- 💰 Ledger & Financial Tracking  
-- 🧾 Reporting & Analytics  
+
+| Module | Description |
+|------|------------|
+| 🛒 Sales | Sales tracking & invoicing |
+| 📦 Inventory | Stock & warehouse management |
+| 👤 Buyer/Supplier | CRM-like entity handling |
+| 💰 Ledger | Financial tracking & due calculation |
+| 📊 Reports | Business insights & analytics |
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 🔙 Backend
-- C#, ASP.NET Core / .NET Framework / .NET 8  
+## 🔙 Backend
+- C#, ASP.NET Core / .NET 8  
 - RESTful API Development  
-- Business Logic & ERP Workflow Implementation  
+- ERP Business Logic  
 
-### 🎨 Frontend
+## 🎨 Frontend
 - React.js  
 - JavaScript (AJAX, jQuery)  
-- Responsive UI Design  
+- Responsive UI  
 
-### 🗄️ Database
+## 🗄️ Database
 - Microsoft SQL Server (MSSQL)  
-- Stored Procedures, Query Optimization  
-- Financial Data Handling  
-
-### ⚙️ Engineering Practices
-- Debugging & Issue Resolution  
-- Code Optimization & Performance Tuning  
-- Clean Code & Maintainability  
-- Real-world ERP Problem Solving  
+- Stored Procedures  
+- Query Optimization  
 
 ---
 
-## 🔧 What I’m Currently Doing
-- Developing and enhancing ERP core modules  
-- Fixing production-level bugs and improving system stability  
-- Designing efficient database queries and financial logic  
-- Building interactive UI components using React.js  
-- Ensuring smooth data flow (UI → API → Database)  
+# ⚙️ Engineering Focus
+
+- 🧠 Clean, maintainable architecture  
+- ⚡ Performance optimization  
+- 🐞 Advanced debugging  
+- 🔄 Data flow: UI → API → DB → Response  
+- 🏗️ Enterprise-grade coding standards  
 
 ---
 
-## 🌱 Currently Learning
-- Advanced React.js (Hooks, State Management, Optimization)  
-- Modern .NET Practices (Performance, Clean Architecture)  
-- Enterprise API Design  
+# 🔧 Current Work
+
+- Enhancing ERP modules  
+- Fixing production bugs  
+- Improving system performance  
+- Writing optimized SQL queries  
+- Building React-based UI components  
 
 ---
 
-## 📈 Project Impact
+# 🌱 Learning & Growth
+
+- Advanced React (Hooks, State Management)  
+- Modern .NET (Performance, Clean Architecture)  
+- Scalable API Design  
+
+---
+
+# 📈 Impact
+
 This project is helping me:
-- Gain hands-on experience with **enterprise-grade applications**  
-- Improve **system design and architecture thinking**  
-- Strengthen **full-stack development capabilities**  
-- Work with **real business logic (ERP domain)**  
+
+- Build **enterprise-level systems**
+- Understand **real business workflows**
+- Improve **architecture thinking**
+- Strengthen **full-stack expertise**
 
 ---
 
-## 🤝 Opportunities
-I am open to:
-- Internship Opportunities  
-- Junior/Mid-level Software Engineering Roles  
-- Collaboration on real-world projects  
+# 🤝 Opportunities
+
+I’m open to:
+
+- 💼 Software Engineering Roles (Junior/Mid)  
+- 🤝 Collaboration on real-world projects  
+- 🚀 Growth opportunities in product teams  
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-- 📧 Email: himelsarker.softdev@gmail.com  
-- 🔗 GitHub: https://github.com/himel-sarker  
-- 🔗 LinkedIn: https://linkedin.com/in/himel-sarker/  
-- 🌐 Portfolio: https://himelsarker-dev.netlify.app/  
+<p align="center">
+  <a href="mailto:himelsarker.softdev@gmail.com">📧 Email</a> •
+  <a href="https://github.com/himel-sarker">GitHub</a> •
+  <a href="https://linkedin.com/in/himel-sarker/">LinkedIn</a> •
+  <a href="https://himelsarker-dev.netlify.app/">Portfolio</a>
+</p>
 
 ---
 
-## ⚡ Personal Note
-I enjoy solving real-world problems through code and building systems that make business operations more efficient.
+# ⚡ Personal Note
 
-😄 Fun fact: I think I’m funny.
+> I enjoy solving real-world problems through code and building systems  
+> that make business operations smarter and more efficient.
+
+😄 *Fun fact: I think I’m funny.*
