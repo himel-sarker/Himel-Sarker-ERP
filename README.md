@@ -1,5 +1,3 @@
-# 🏢 ERP System - Full Stack Development
-
 **Himel Sarker**  
 Software Engineer | .NET Developer | ERP Systems  
 📍 Dhaka, Bangladesh  
@@ -105,4 +103,3 @@ I am open to:
 I enjoy solving real-world problems through code and building systems that make business operations more efficient.
 
 😄 Fun fact: I think I’m funny.
-# Himel-Sarker-ERP
